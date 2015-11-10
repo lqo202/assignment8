@@ -1,0 +1,12 @@
+Mean for position 1 = 0.033200 
+Std for position 1 = 0.999449 
+
+Mean for position 10 = 0.016820 
+Std for position 10 = 0.316002 
+
+Mean for position 100 = 0.019586 
+Std for position 100 = 0.100733 
+
+Mean for position 1000 = 0.019865 
+Std for position 1000 = 0.031647 
+
